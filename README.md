@@ -8,4 +8,6 @@ The `example` directory contains a [demo](https://gitcdn.xyz/repo/zmwangx/pi.js/
 
 # License
 
-Copyright (c) 2018 Zhiming Wang <i@zhimingwang.org>. The MIT License.
+Copyright (c) 2018 Zhiming Wang <i@zhimingwang.org>
+
+This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar.
