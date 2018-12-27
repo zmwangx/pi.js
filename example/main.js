@@ -6,7 +6,7 @@
 
   var contentTimer = setInterval(function () {
     $pre.style.height = Math.max(window.innerHeight - $pre.offsetTop - 20, 0) + "px";
-    userScrolledUp = ($pre.scrollTop + $pre.offsetHeight) < $pre.scrollHeight;
+    var userScrolledUp = ($pre.scrollTop + $pre.offsetHeight) < $pre.scrollHeight;
     if (pos < pi.length) {
       $pre.textContent += pi[pos];
       pos++;
